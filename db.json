@@ -5,7 +5,8 @@
     { "id": 3, "name": "Smith", "manager": "Henry" },
     { "id": 4, "name": "Kirk", "manager": "Rob" },
     { "id": 5, "name": "Mary", "manager": "Adam" },
-    { "id": 6, "name": "Jo", "manager": "Stu" }
+    { "id": 6, "name": "Jo", "manager": "Stu" },
+    { "id": 7, "name": "Chris", "manager": Griffin" }
   ],
   "profile": {
     "name": "typicode"
